@@ -1,0 +1,1 @@
+Couldn't find the requested file /chess.min.js in chess.js.
