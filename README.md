@@ -1,29 +1,29 @@
-# ♔ Chess Game - RookAndRoll ♚
+# Chess Game - RookAndRoll
 
-A beautiful, real-time multiplayer chess game built with Node.js, Socket.IO, and modern web technologies.
+A professional, real-time multiplayer chess game built with Node.js, Socket.IO, and modern web technologies.
 
-## ✨ Features
+## Features
 
-### 🎨 Beautiful UI
+### User Interface
 - **Modern Design**: Clean, elegant interface with gradient backgrounds
 - **Smooth Animations**: Hover effects, transitions, and piece interactions
 - **Glassmorphism**: Translucent elements with backdrop blur effects
 - **Responsive Layout**: Works perfectly on different screen sizes
 
-### 🎮 Game Features
+### Game Features
 - **Real-time Multiplayer**: Play against friends instantly with Socket.IO
 - **Drag & Drop**: Intuitive piece movement with visual feedback
 - **Board Flipping**: Switch perspectives with properly oriented pieces
 - **Move Validation**: Full chess rule validation using chess.js
 - **Turn Management**: Automatic turn switching and validation
 
-### 🚀 Technical Features
+### Technical Features
 - **Real-time Synchronization**: Instant move updates across all clients
 - **Player Roles**: Automatic white/black player assignment
 - **Spectator Mode**: Watch ongoing games
 - **Connection Management**: Robust handling of player connections/disconnections
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Node.js, Express.js
 - **Real-time Communication**: Socket.IO
@@ -32,7 +32,7 @@ A beautiful, real-time multiplayer chess game built with Node.js, Socket.IO, and
 - **Styling**: Tailwind CSS, Custom CSS animations
 - **Template Engine**: EJS
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -64,7 +64,7 @@ A beautiful, real-time multiplayer chess game built with Node.js, Socket.IO, and
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
-## 🎯 How to Play
+## How to Play
 
 1. **Join a Game**: Open the game in your browser
 2. **Player Assignment**: You'll be automatically assigned as White or Black
@@ -72,7 +72,7 @@ A beautiful, real-time multiplayer chess game built with Node.js, Socket.IO, and
 4. **Flip Board**: Click "Flip Board" to change your perspective
 5. **New Game**: Click "New Game" to start fresh
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 RookAndRoll/
@@ -86,14 +86,14 @@ RookAndRoll/
 └── README.md
 ```
 
-## 🎨 UI Components
+## UI Components
 
 - **Header**: Game title with New Game and Flip Board buttons
 - **Chess Board**: Interactive 8x8 grid with traditional styling
 - **Game Messages**: Real-time status updates and notifications
 - **Responsive Design**: Adapts to different screen sizes
 
-## 🔧 Development
+## Development
 
 ### Available Scripts
 
@@ -107,7 +107,7 @@ RookAndRoll/
 - **`views/index.ejs`**: HTML template with embedded CSS
 - **`public/js/chessgame.js`**: Client-side game logic and UI interactions
 
-## 🌟 Features in Detail
+## Features in Detail
 
 ### Real-time Multiplayer
 - Automatic player role assignment (White/Black)
@@ -127,21 +127,21 @@ RookAndRoll/
 - Smooth animations and transitions
 - Clean, distraction-free design
 
-## 🎮 Game Controls
+## Game Controls
 
 - **Drag & Drop**: Move pieces by dragging them to valid squares
 - **New Game Button**: Reset the game and start fresh
 - **Flip Board Button**: Rotate the board 180° for different perspective
 - **Auto-turn**: Game automatically switches turns after valid moves
 
-## 🔒 Security & Validation
+## Security & Validation
 
 - Server-side move validation
 - Turn-based move restrictions
 - Input sanitization
 - Connection validation
 
-## 🚀 Deployment
+## Deployment
 
 The application can be deployed to any Node.js hosting platform:
 
@@ -150,18 +150,18 @@ The application can be deployed to any Node.js hosting platform:
 - **DigitalOcean**: Compatible with App Platform
 - **AWS**: Works with Elastic Beanstalk or EC2
 
-## 📝 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
 
 ---
 
-**Enjoy playing chess! ♔♚**
+**Enjoy playing chess!**
